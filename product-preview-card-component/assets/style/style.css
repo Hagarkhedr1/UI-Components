@@ -1,0 +1,35 @@
+
+.qr-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:  hsl(212, 45%, 89%)
+
+}
+.qr-code {
+    padding: 15px;
+    background-color:  hsl(0, 0%, 100%);
+    border-radius: 15px;
+    border: none;
+}
+.qr-code img {
+    border-radius: 15px;
+
+}
+.qr-code p {
+    color : hsl(220, 15%, 55%);
+    font-size:15px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+
+}
+.qr-code h6 {
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+
+
+
+}
