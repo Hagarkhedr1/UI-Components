@@ -1,0 +1,31 @@
+.equilibrium {
+    height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.equilibrium-card{
+    background-color: hsl(216, 50%, 16%)    ;
+    padding: 20px ;
+    border: none;
+    border-radius: 15px;
+    margin: auto;
+  
+}
+.equilibrium-card  img {
+    border: none;
+    border-radius: 10px;   
+}
+.equilibrium-card h6 {
+    color : hsl(0, 0%, 100%);
+    font-weight : 600
+
+
+}
+.equilibrium  .card-body {
+    padding-left: 0;
+}
+.equilibrium p {
+   color: hsl(215, 51%, 70%)
+}
